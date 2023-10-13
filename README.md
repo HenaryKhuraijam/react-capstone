@@ -34,7 +34,7 @@
 
 # 📖React-Capstone <a name="about-project"></a>
 
-> In this project, I build a React-Capstone App using react.
+> In this project, I build a React-Capstone App using HTML, CSS, JavaScript, React and Redux.I would like to thank Nelson Sakwa on Behance for the original design idea.
 
 ## 🛠 Built With <a name="built-with">
 - HTML
@@ -66,6 +66,11 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+
+- [Live Demo Link](https://moviesworld-tdkc.onrender.com)
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -82,7 +87,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-cd my-folder git clone git@github.com:HenaryKhuraijam/bookstore-react.git
+cd my-folder git clone git@github.com:HenaryKhuraijam/react-capstone.git
 
 ### Install
 
