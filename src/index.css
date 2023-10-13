@@ -37,7 +37,7 @@ body {
   height: calc(100vh - 50px);
 }
 
-/* .banner__intro {
+.banner__intro {
   position: absolute;
   left: 0;
   bottom: 0;
@@ -55,7 +55,7 @@ body {
       #1f1f1f10 90%,
       transparent 100%
     );
-} */
+} 
 
 .banner__intro__content {
   position: absolute;
