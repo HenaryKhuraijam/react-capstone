@@ -1,10 +1,17 @@
-import './App.css';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Header from './components/Header';
+import ShowInfo from './components/ShowInfo';
+import Shows from './components/Shows';
 
 function App() {
   return (
-    <div className="App">
-
-    </div>
+    <BrowserRouter>
+      <Header />
+      <Routes>
+        <Route path="/" element={<Shows />} />
+        <Route path="/showinfos/:id" element={<ShowInfo />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 

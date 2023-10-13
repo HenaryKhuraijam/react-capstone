@@ -42,17 +42,17 @@ const ShowInfo = () => {
                   {show.summary.replace(/(<([^>]+)>)/ig, '')}
                 </div>
                 <h4 className="tagline">
-                  What is next? ...
+                  Find next? ...
                 </h4>
                 <h5 className="appName">
-                  Stay Tune!
+                  MoviesWorld!
                 </h5>
               </article>
             </div>
           </section>
           <section className="showInfo__details">
             <div className="showInfo__details_header">
-              <h2>Detail Information</h2>
+              <h2>Movies Detail Information</h2>
             </div>
             <div className="rows">
               <p>

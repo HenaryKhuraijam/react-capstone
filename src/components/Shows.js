@@ -6,7 +6,7 @@ import { IconButton } from '@mui/material';
 import SearchIcon from '@mui/icons-material/Search';
 import Show from './Show';
 import { getShowsAction } from '../redux/showsReducer';
-import arrow from '../assets/arrow.jpg';
+import hellsing from '../assets/hellsing.jpg';
 
 const Shows = () => {
   const shows = useSelector((state) => state.shows);
@@ -26,17 +26,17 @@ const Shows = () => {
         className="shows_banner banner"
         style={{
           background: `linear-gradient(to top right, #1f1f1fff,
-                #b4b4b400) , url(${arrow}) no-repeat center top`,
+                #b4b4b400) , url(${hellsing}) no-repeat center top`,
           backgroundSize: '100% 100%',
         }}
       >
         <div className="banner__intro">
           <article className="banner__intro__content">
             <h1 className="banner__intro__title">
-              Hi Welcome to Stay Tune!
+              Welcome to MoviesWorld!
             </h1>
             <p>
-              Explore and enjoy from a list of collection.
+              Explore and enjoy from a list of Movies collection.
             </p>
             <p>
               Start with this one....
@@ -53,10 +53,10 @@ const Shows = () => {
               , Quentin Lance, Oliver has been waging a one-man war on crime.
             </div>
             <h4 className="tagline">
-              What is next? ...
+              Find next? ...
             </h4>
             <h5 className="appName">
-              Stay Tune!
+            MoviesWorld!
             </h5>
           </article>
         </div>
