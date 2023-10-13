@@ -167,7 +167,11 @@ If you like this project feel free to leave comments and contact via given autho
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I would like to thank the code reviewers for taking time to do the work. A special thank you as well to my teammates for their support it wouldnt have been possible without you guys.
+
+- Microverse Team
+- Nelson Sakwa on Behance for providing the original design idea.
+- TV Maze API service for giving access to their API.
+- All my fellow micronauts.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
