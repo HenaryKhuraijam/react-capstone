@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3fa70e4c.css",
+    "main.js": "/static/js/main.3d284fb1.js",
+    "static/media/hellsing.jpg": "/static/media/hellsing.751f6eefbfd0643252cd.jpg",
+    "index.html": "/index.html",
+    "main.3fa70e4c.css.map": "/static/css/main.3fa70e4c.css.map",
+    "main.3d284fb1.js.map": "/static/js/main.3d284fb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fa70e4c.css",
+    "static/js/main.3d284fb1.js"
+  ]
+}
